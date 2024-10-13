@@ -13,4 +13,3 @@ function sumArray(arr) {
 // memasukkan input ke dalam function dan menampilkan hasil input
 console.log(sumArray([1, 2, 3, 4]));
 console.log(sumArray([5, -2, 7]));
-  

@@ -16,4 +16,3 @@ console.log(findLargest(3, 7, 5)) // Expected output: 7
 console.log(findLargest(10, 10, 7)) // Expected output: 10
 console.log(findLargest(2, 5, 10)) // Expected output: 10
 
-  

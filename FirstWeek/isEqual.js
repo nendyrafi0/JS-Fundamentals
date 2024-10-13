@@ -6,8 +6,8 @@ function areNumbersEqual(a, b) {
     } else { // jika a tidak sama dengan b maka akan mengembalikan nilai false
         return false;
     }
-  }
-  
-  // memasukkan input ke dalam function dan menampilkan hasil function
-  console.log(areNumbersEqual(3, 3));
-  console.log(areNumbersEqual(5, 3));
+}
+
+// memasukkan input ke dalam function dan menampilkan hasil function
+console.log(areNumbersEqual(3, 3));
+console.log(areNumbersEqual(5, 3));
